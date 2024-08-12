@@ -15,4 +15,3 @@ INSERT INTO books (id, title, author) VALUES (3, 'Pride and Prejudice', 'Jane Au
 
 -- Inserting a book with id 4, title "The Great Gatsby", and author "F. Scott Fitzgerald"
 INSERT INTO books (id, title, author) VALUES (4, 'The Great Gatsby', 'F. Scott Fitzgerald');
-
